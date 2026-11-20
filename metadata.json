@@ -1,0 +1,6 @@
+{
+  "name": "Nudi — Kannada Pronunciation Coach",
+  "description": "Find your voice in Kannada with native-script syllable coaching, OpenSLR-79 practice sentences, and AI speech pronunciation feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
